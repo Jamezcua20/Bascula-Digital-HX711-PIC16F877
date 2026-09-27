@@ -3,7 +3,7 @@
 Firmware desarrollado para un sistema de pesaje digital con capacidad de calibración en dos puntos y conversión de unidades en tiempo real. El proyecto abarca la adquisición de señales de celda de carga a través de un acondicionador ADC de 24 bits, procesamiento en microcontrolador y despliegue en pantalla LCD.
 
 ## Información del Desarrollo
-- Fecha de desarrollo: 09/10/2022
+- Fecha de desarrollo: 09/10/2024
 
 ## Hardware Utilizado
 - Microcontrolador: Microchip PIC16F877 / PIC16F877A
